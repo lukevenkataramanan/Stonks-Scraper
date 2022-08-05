@@ -98,4 +98,5 @@ def trending_scraper():
 
 
 if __name__ == '__main__':
+    print('Welcome user')
     trending_scraper()
